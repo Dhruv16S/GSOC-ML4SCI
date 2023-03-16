@@ -14,7 +14,7 @@
         <li>Choosing fields based on the conditions specified.</li>
         <li>Plotting the manipulated data.</li>
       </ul>      
-    <li>
+    <li>Application of Machine Learning</li>
       <ul>
         <li>Retrieving, creating and cleaning the training and testing dataset from the specified URL.</li>
         <li>Applying ML model</li>
